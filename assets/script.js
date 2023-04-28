@@ -15,7 +15,9 @@ if (topic === 'HTML') {
   console.log('Please try again!');
 }
 */
-var shapes = ["triangle", "square", "pentagon", "circle"];
+
+/*var shapes = ["triangle", "square", "pentagon", "circle"];
 for(var x = 0; x < shapes.length; x++) {
  console.log(shapes[x]);
 }
+*/
